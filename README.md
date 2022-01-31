@@ -1,4 +1,4 @@
-# Random quote machine
+# Random Quote Machine
 
 #### Description: Generates random quotes. Tools used: React, CSS, HTML.
 
